@@ -45,6 +45,6 @@
    npm -i
    npm run dev / npm start
 
-### 🤝 Contributing
+# 🤝 Contributing
 
-**We welcome contributions to improve Karbon Ledger. Please fork the repository and submit a pull request with your updates. Make sure to follow the code of conduct and submit any major changes for discussion first.
+We welcome contributions to improve Karbon Ledger. Please fork the repository and submit a pull request with your updates. Make sure to follow the code of conduct and submit any major changes for discussion first.
